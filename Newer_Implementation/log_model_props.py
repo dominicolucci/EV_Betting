@@ -2,7 +2,6 @@ import os
 import csv
 from datetime import datetime
 from model_util import load_and_prepare_games, extract_features_and_labels, train_model
-import pandas
 
 LOG_FILE = "logs/ev_hit_log.csv"
 
