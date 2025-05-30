@@ -6,6 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import TimeSeriesSplit
 from typing import List, Tuple, Optional, Dict
+import random
 
 def load_and_prepare_games(csv_path: str, stat_key: str) -> List[Dict]:
     games = []
