@@ -2,7 +2,6 @@ import csv
 import os
 import numpy as np
 from sklearn.linear_model import LogisticRegression
-import random
 
 def main():
     player_input = input("Enter player name (e.g., cade_cunningham): ").strip().lower().replace(" ", "_")
