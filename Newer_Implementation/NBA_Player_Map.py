@@ -126,7 +126,6 @@ player_name_to_id = {
     "lebron james": "jamesle01",
     "leaky black": "blackle01",
     "leonard miller": "millele01",
-    "lester quinones": "quinole01",
     "lindell wigginton": "wiggili01",
     "lindy waters iii": "waterli01",
     "lonnie walker iv": "walkelo01",
