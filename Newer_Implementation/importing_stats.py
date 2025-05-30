@@ -6,6 +6,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import requests
 from NBA_Player_Map import player_name_to_id
+import numpy
 
 # Configurable stat fields to extract
 target_stats = ["PTS", "AST", "REB", "TRB", "STL", "BLK", "TOV", "FG", "FGA", "3P", "3PA", "FT", "FTA", "MP"]
